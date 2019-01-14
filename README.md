@@ -1,1 +1,1 @@
-# spotify-ad-block
+block spotify ads on linux
